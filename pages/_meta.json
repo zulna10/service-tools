@@ -1,5 +1,6 @@
 {
   "index": "Introduction",
+  "testnet":"TESTNET",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
