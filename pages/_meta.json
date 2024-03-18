@@ -1,8 +1,8 @@
 {
   "index": "Introduction",
   "testnet":"TESTNET",
-  "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "althea":"althea",
   "about": {
     "title": "About",
     "type": "page"
