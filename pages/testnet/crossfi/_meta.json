@@ -1,5 +1,6 @@
 {
     "api":"API Endpoint & RPC Endpoint",
     "install":"INSTALL",
-    "validator":"SET VALIDATOR"
+    "validator":"SET VALIDATOR",
+    "cheat":"Cheat Sheet"
 }
