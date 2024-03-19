@@ -1,6 +1,6 @@
 {
   "index": "Introduction",
-  "advanced": "TESTNET",
+  "testnet": "TESTNET",
   "althea":"althea",
   "about": {
     "title": "About",
