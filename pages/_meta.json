@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
   "testnet": "TESTNET",
-  "althea":"althea",
+  "mainnet":"MAINNET",
   "about": {
     "title": "About",
     "type": "page"
