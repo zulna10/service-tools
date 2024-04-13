@@ -2,6 +2,7 @@
   "index": "Introduction",
   "testnet": "TESTNET",
   "mainnet":"MAINNET",
+  "guide":"GUIDE",
   "about": {
     "title": "About",
     "type": "page"
