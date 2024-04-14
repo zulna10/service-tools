@@ -28,7 +28,12 @@ const config: DocsThemeConfig = {
     
   },
   
-  logo: <span>ZULNA Docs</span>,
+  logo: (
+    <>
+    <img src='guide/asset/logo.png'></img>
+  <span>ZULNA Docs</span>
+    </>
+  ),
   project: {
     link: 'https://github.com/zulna10',
   },
