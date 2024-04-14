@@ -30,7 +30,7 @@ const config: DocsThemeConfig = {
   
   logo: (
     <>
-    <img src='pages/guide/asset/logo.png' width={24} height={24}></img>
+    <img src='logo.png' width={24} height={24}></img>
   <span>ZULNA Docs</span>
     </>
   ),
