@@ -7,6 +7,10 @@
     "title": "About",
     "type": "page"
   },
+  "lam":{
+    "title":"lam",
+    "type":"page"
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
