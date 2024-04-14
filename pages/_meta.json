@@ -10,11 +10,5 @@
   "lam":{
     "title":"lam",
     "type":"page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/natasya1006",
-    "newWindow": true
   }
 }
