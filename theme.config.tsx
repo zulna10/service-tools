@@ -30,7 +30,6 @@ const config: DocsThemeConfig = {
   
   logo: (
     <>
-    <img src='https://github.com/zulna10/service-tools/blob/main/logo.png' width={24} height={24}></img>
   <span>ZULNA Docs</span>
     </>
   ),
